@@ -1,8 +1,7 @@
 # Transport Guide Dhaka City
 <b>East West University</b><br>
-<b>Project for Web DB Programming(CSE480)</b><br>
-<b>Md Emon Miea</b><br>
-<b>ID:</b> 2015-1-60-085<br>
+<b>soumit roy dipta</b><br>
+
 <br>
 
 <h2>Used Technology </h2>
